@@ -15,3 +15,7 @@ spring:
         characterEncoding: UTF-8
         username: root
         password: "{cipher}0f0d9c5f72076801294d5837ed83c489046041e1a8cb60dbc9684ef9dcc45154"
+
+jwt:
+    secret_key: SECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEY
+    expTime: 8640000
