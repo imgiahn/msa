@@ -1,6 +1,3 @@
-jwt:
-    time: 900000
-    secret: hello-world4444
 posco:
     name: 3기dev
     count: 20
