@@ -11,7 +11,7 @@ spring:
         url: jdbc:mysql://localhost:3306/rollin?serverTimezone=UTC&amp
         characterEncoding: UTF-8
         username: root
-        password: "{cipher}0f0d9c5f72076801294d5837ed83c489046041e1a8cb60dbc9684ef9dcc45154"
+        password: 1234
 
 jwt:
     secret_key: SECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEY
